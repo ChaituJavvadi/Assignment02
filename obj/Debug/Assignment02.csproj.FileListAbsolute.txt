@@ -6,3 +6,11 @@ D:\Conestoga study\Second sem\PROG8170-22F-Sec4-Software Quality Assurance Techn
 D:\Conestoga study\Second sem\PROG8170-22F-Sec4-Software Quality Assurance Techn\Assignment02\obj\Debug\Assignment02.csproj.CoreCompileInputs.cache
 D:\Conestoga study\Second sem\PROG8170-22F-Sec4-Software Quality Assurance Techn\Assignment02\obj\Debug\Assignment02.exe
 D:\Conestoga study\Second sem\PROG8170-22F-Sec4-Software Quality Assurance Techn\Assignment02\obj\Debug\Assignment02.pdb
+C:\Users\Chaitu\source\repos\Assignment02\bin\Debug\Assignment02.exe.config
+C:\Users\Chaitu\source\repos\Assignment02\bin\Debug\Assignment02.exe
+C:\Users\Chaitu\source\repos\Assignment02\bin\Debug\Assignment02.pdb
+C:\Users\Chaitu\source\repos\Assignment02\obj\Debug\Assignment02.csproj.AssemblyReference.cache
+C:\Users\Chaitu\source\repos\Assignment02\obj\Debug\Assignment02.csproj.SuggestedBindingRedirects.cache
+C:\Users\Chaitu\source\repos\Assignment02\obj\Debug\Assignment02.csproj.CoreCompileInputs.cache
+C:\Users\Chaitu\source\repos\Assignment02\obj\Debug\Assignment02.exe
+C:\Users\Chaitu\source\repos\Assignment02\obj\Debug\Assignment02.pdb
